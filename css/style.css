@@ -6,3 +6,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* NavBar */
+img[alt="Logo"]{
+    width: 5rem;
+}
